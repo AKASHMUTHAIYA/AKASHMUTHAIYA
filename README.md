@@ -10,11 +10,7 @@
 </div>
 Skills
 Programming Languages: Java, HTML & CSS, React
-Technical Skills: Power BI Report Analysis, Excel, Software Testing, Computer Networks
-Projects
-React Calculator: Developed an interactive, user-friendly calculator application leveraging the power of React.
-API Weather App: Created a web application that provides real-time weather updates using various APIs.
-QR Code Generator: Built a tool that enhances visual appeal and branding by incorporating logos in the center of QR codes.
+Technical Skills: Power BI Report Analysis, Excel, Software Testing, Computer Networks,My sql,Java Servlet and JSP.
 Education
 B.Tech in Information Technology from VSB Engineering College, Karur (CGPA: 8.002 up to 5th semester)
 HSC from Town Higher Secondary School, Kumbakonam (82.3%)
