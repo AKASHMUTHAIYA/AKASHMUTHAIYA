@@ -7,4 +7,7 @@
     <p>😄 Pronouns: He/Him</p>
     <p>⚡ Fun fact: I excel in handball and enjoy participating in team sports, showcasing strong teamwork and strategic thinking.</p>
 </div>
+<div>
+     <h1>LinkedInn :<a href="www.linkedin.com/in/akash-muthaiya-b53116241">clickhere</a></h1>
+</div>
 
